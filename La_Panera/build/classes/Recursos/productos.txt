@@ -1,0 +1,6 @@
+3040,Pita Griega,15.00
+1020,Pita Opera,18.00
+2000,Pita Siciliana,27.00
+2030,Postre Brasiia,22.00
+4010,Dama Blanca,17.50
+1020,Gaseosa,7.00
